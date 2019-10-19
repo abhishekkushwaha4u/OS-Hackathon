@@ -1,4 +1,4 @@
-# Team '__init__' #
+# Team \__init__ #
 
 [![HitCount](http://hits.dwyl.io/abhishekkushwaha4u/Nuerex.svg)](http://hits.dwyl.io/abhishekkushwaha4u/OS-Hackathon)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhishekkushwaha4u/OS-Hackathon/master)
