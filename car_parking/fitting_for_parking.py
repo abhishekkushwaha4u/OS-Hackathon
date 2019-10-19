@@ -29,7 +29,7 @@ def bestFit(blockSize, m, processSize, n):
             # Reduce available memory in this block.  
             blockSize[bestIdx] -= processSize[i] 
   
-    print("Car Queue. Car Size     Block no.") 
+    print("Car Queue.  Size     Block no.") 
     for i in range(n): 
         print(i + 1, "             ", processSize[i],  
                                 end = "              ")  
