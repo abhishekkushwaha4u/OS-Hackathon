@@ -4,5 +4,4 @@
 ## Also to check if the car is Parked we will kick in some CV ##
 ## Other opportunities in smart building will be considered where we need to have security for people ##
 ## Also we will guide the people parking using search algorithm to come out of parking. ##
-## Search algorithm will be organised with priority for small cars. Thus leading a process scheduling problem ##
- 
+## Search algorithm will be organised with priority for small cars. Thus leading a process scheduling problem ##git  
