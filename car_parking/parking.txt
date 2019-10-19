@@ -1,0 +1,3 @@
+name: SUV
+distances: 1 1 1 2 3
+parking_slots:101 101 102 302 402
