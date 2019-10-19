@@ -1,0 +1,33 @@
+input = Car type, leaving/entering
+
+If entering allocate proper car, leave.
+If leaving  put them in perfect position.
+
+
+Matrix= Currently allocated
+
+		SUV 		LUV 		2W
+Empty_Slots	5		8		2
+Distances 	[1,1,1,2,3]     [2,3,4,1,2,..]	[1,3]
+Parking_slots   [..,...,..,.]   [..,..,...,..]  [..,..]
+
+ALlocated Parkings
+dictionary{ Carnumber_plate: [Car_type'Parking_Slot'],}
+
+Sample Test Case:-
+
+E
+SUV
+
+Update
+
+SUV
+4
+[1,1,2,3]
+
+
+
+
+
+
+		
