@@ -1,1 +1,1 @@
-- Face detection after coming into class.
+- Face detection after coming into our building.
